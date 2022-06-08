@@ -58,4 +58,4 @@ Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir
 ### Bizimle İletişime Geçin  
 Gizlilik Politikamız hakkında herhangi bir sorunuz veya öneriniz varsa, bizimle iletişime geçmekten çekinmeyin.
 İletişim Bilgileri:  
-Email: *iletisim@engelsizcozum.com
+Email: *iletisim@engelsizcozum.com*
