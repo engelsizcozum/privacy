@@ -14,11 +14,11 @@ Engelsiz Çözüm uygulaması tarafından aşağıdaki bilgiler uygulamamızı g
 - Cihaz Bilgileri
 - Email Adresiniz (Sosyal Ağ kısmı)
 - Sosyal Ağ İçerisindeki Analitik Bilgiler (Sosyal Ağ kısmı)
--   Email Adresiniz
--   Paylaştığınız Gönderiler
--   Gönderilerinizin Beğeni Sayısı ve Beğenen Kullanıcılar
--   Gönderilinizin Yorum Sayısı, Yorumları ve Yorum Yapan kullanıcılar
--   Yaptığınız Yorumlar ve Yorumlarınızın Beğeni Sayısı
+- Email Adresiniz (Sosyal Ağ kısmı)
+- Paylaştığınız Gönderiler (Sosyal Ağ kısmı)
+- Gönderilerinizin Beğeni Sayısı ve Beğenen Kullanıcılar (Sosyal Ağ kısmı)
+- Gönderilinizin Yorum Sayısı, Yorumları ve Yorum Yapan kullanıcılar (Sosyal Ağ kısmı)
+- Yaptığınız Yorumlar ve Yorumlarınızın Beğeni Sayısı (Sosyal Ağ kısmı)
 
 ### Çerezler  
 Çerezler, genellikle anonim benzersiz bir tanımlayıcı olarak kullanılan az miktarda veri içeren dosyalardır. Bunlar, ziyaret ettiğiniz web sitesinden tarayıcınıza gönderilir ve cihazlarınızın dahili hafızasında saklanır.
