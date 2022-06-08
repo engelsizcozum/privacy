@@ -13,7 +13,7 @@ Engelsiz Çözüm uygulaması tarafından aşağıdaki bilgiler uygulamamızı g
 - Ağ Bilgileri
 - Cihaz Bilgileri
 - Email Adresiniz (Sosyal Ağ kısmı)
-- İsim Soyisim
+- İsim Soyisim (Sosyal Ağ kısmı)
 - Sosyal Ağ İçerisindeki Analitik Bilgiler (Sosyal Ağ kısmı)
 - Email Adresiniz (Sosyal Ağ kısmı)
 - Paylaştığınız Gönderiler (Sosyal Ağ kısmı)
